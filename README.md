@@ -1,1 +1,1 @@
-# mssc-brewery-eureka
+# SFG Brewery Eureka Service
